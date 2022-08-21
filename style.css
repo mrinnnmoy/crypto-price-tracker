@@ -12,6 +12,22 @@ body {
     background: #161616;
 }
 
+.follow{
+    border: 5px solid grey;
+    border-radius: 25px;
+}
+
+.follow-name{
+    color: white;
+    font-family: 'Mukta', sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+.follow-name a{
+    text-decoration: none;
+}
+
 .coin {
     display: flex;
     width: 460px;
